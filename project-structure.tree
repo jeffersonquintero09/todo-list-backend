@@ -1,0 +1,22 @@
+├── .env
+├── .gitignore
+├── app
+│  ├── app.js
+│  ├── config
+│  │  ├── configuration.js
+│  │  ├── database.js
+│  │  └── swaggerConfig.js
+│  ├── controllers
+│  │  └── taskController.js
+│  ├── index.js
+│  ├── middleware
+│  │  ├── errorHandler.js
+│  │  └── validations.js
+│  ├── models
+│  │  └── task.js
+│  └── routes
+│    ├── router.js
+│    └── task.routes.js
+├── package-lock.json
+├── package.json
+└── project-structure.tree
